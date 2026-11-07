@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RoxyZ7/ZELUX-DL/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/RoxyZ7/ZELUX-DL?style=for-the-badge&color=8b5bff"></a>
+  <a href="https://github.com/RoxyZ7/Zelux-DL/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/RoxyZ7/Zelux-DL?style=for-the-badge&color=8b5bff"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-2ecc71?style=for-the-badge"></a>
   <img alt="Platforms" src="https://img.shields.io/badge/Platforms-Windows%20·%20macOS%20·%20Linux-blue?style=for-the-badge">
   <img alt="Language" src="https://img.shields.io/badge/Language-ไทย%20·%20English-purple?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/RoxyZ7/ZELUX-DL/releases/latest"><b>⬇ ดาวน์โหลดเวอร์ชันล่าสุด</b></a> ·
+  <a href="https://github.com/RoxyZ7/Zelux-DL/releases/latest"><b>⬇ ดาวน์โหลดเวอร์ชันล่าสุด</b></a> ·
   <a href="#-จุดเด่นของ-zeluxdl">ฟีเจอร์เด่น</a> ·
   <a href="#-ภาพตัวอย่างโปรแกรม-screenshots">ภาพตัวอย่าง</a> ·
   <a href="#-การติดตั้งและใช้งาน">วิธีติดตั้ง</a> ·
@@ -99,7 +99,7 @@
 
 ## ⬇ การติดตั้งและใช้งาน
 
-ดาวน์โหลดไฟล์ติดตั้งเวอร์ชันล่าสุดได้จากหน้า **[Releases](https://github.com/RoxyZ7/ZELUX-DL/releases/latest)**
+ดาวน์โหลดไฟล์ติดตั้งเวอร์ชันล่าสุดได้จากหน้า **[Releases](https://github.com/RoxyZ7/Zelux-DL/releases/latest)**
 
 | ระบบปฏิบัติการ | ไฟล์ติดตั้ง | คำแนะนำ |
 |---|---|---|
@@ -145,7 +145,7 @@
 
 ```bash
 # โคลนโปรเจกต์
-git clone https://github.com/RoxyZ7/ZELUX-DL.git
+git clone https://github.com/RoxyZ7/Zelux-DL.git
 cd Zelux-DL
 
 # ติดตั้ง Dependencies

@@ -12,7 +12,7 @@ import sys
 
 src, tag, notes_path = pathlib.Path(sys.argv[1]), sys.argv[2], sys.argv[3]
 version = tag.lstrip("v")
-repo = os.environ.get("GITHUB_REPOSITORY") or "RoxyZ7/ZELUX-DL"
+repo = os.environ.get("GITHUB_REPOSITORY") or "RoxyZ7/Zelux-DL"
 base = os.environ.get("UPDATE_BASE_URL") or f"https://github.com/{repo}/releases/download/{tag}/"
 
 # platform key -> file-name suffix of its update bundle

@@ -3,7 +3,7 @@
 import { inTauri } from "./api";
 
 /** ZeluxDL on GitHub. */
-export const REPO_URL = "https://github.com/RoxyZ7/ZELUX-DL";
+export const REPO_URL = "https://github.com/RoxyZ7/Zelux-DL";
 
 export async function openUrl(url: string) {
   if (inTauri) {

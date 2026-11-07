@@ -4,7 +4,7 @@
 (function () {
   "use strict";
 
-  var REPO = "RoxyZ7/ZELUX-DL";
+  var REPO = "RoxyZ7/Zelux-DL";
   var GH = "https://github.com/" + REPO;
   var API = "https://api.github.com/repos/" + REPO;
   var root = document.documentElement;

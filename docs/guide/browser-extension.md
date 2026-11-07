@@ -1,6 +1,6 @@
 # ZeluxDL browser integration
 
-The optional browser extension can hand supported downloads and media links to the ZeluxDL desktop app. The extension is distributed from the [ZeluxDL GitHub Releases](https://github.com/RoxyZ7/ZELUX-DL/releases/latest); it is not currently listed in the Chrome Web Store or Firefox Add-ons.
+The optional browser extension can hand supported downloads and media links to the ZeluxDL desktop app. The extension is distributed from the [ZeluxDL GitHub Releases](https://github.com/RoxyZ7/Zelux-DL/releases/latest); it is not currently listed in the Chrome Web Store or Firefox Add-ons.
 
 ## Install
 

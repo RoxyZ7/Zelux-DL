@@ -4,7 +4,7 @@ labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time! Please check the [troubleshooting guide](https://github.com/RoxyZ7/ZELUX-DL/blob/main/docs/guide/browser-extension.md#troubleshooting) first.
+      value: Thanks for taking the time! Please check the [troubleshooting guide](https://github.com/RoxyZ7/Zelux-DL/blob/main/docs/guide/browser-extension.md#troubleshooting) first.
   - type: textarea
     id: what
     attributes:

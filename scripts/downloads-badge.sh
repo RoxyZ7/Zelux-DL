@@ -4,7 +4,7 @@
 # extensions), not latest.json, which every running Prism fetches on each update check, or
 # SHA256SUMS.txt. Needs gh with GH_TOKEN (or a gh login).
 #
-#   bash scripts/downloads-badge.sh RoxyZ7/ZELUX-DL
+#   bash scripts/downloads-badge.sh RoxyZ7/Zelux-DL
 #
 # Used by .github/workflows/pages.yml (writes site/downloads.json) and badge-refresh.yml
 # (redeploys the site when the published text is out of date).
