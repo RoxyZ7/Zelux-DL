@@ -2,7 +2,7 @@ ZeluxDL browser extension
 ========================
 
 Install the desktop app first, then download and extract the matching browser
-extension archive from https://github.com/SMOKEx2/Zelux-DL/releases/latest.
+extension archive from https://github.com/RoxyZ7/Zelux-DL/releases/latest.
 
   Chrome / Edge / Brave / Opera / Vivaldi / Chromium
     Open the browser extensions page, turn on Developer mode, and choose

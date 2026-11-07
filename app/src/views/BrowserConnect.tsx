@@ -35,7 +35,7 @@ const PAGE: Record<string, string> = {
 const FIREFOX_FAMILY = ["firefox", "zen"];
 
 /** Official ZeluxDL extension packages are published with each GitHub release. */
-export const EXTENSION_STORE_URL = "https://github.com/SMOKEx2/Zelux-DL/releases";
+export const EXTENSION_STORE_URL = "https://github.com/RoxyZ7/Zelux-DL/releases";
 /** The store's install button as each browser labels it (Chrome's label elsewhere). */
 const ADD_LABEL: Record<string, string> = { brave: "Add to Brave", opera: "Add to Opera" };
 

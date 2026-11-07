@@ -12,7 +12,7 @@ ZeluxDL browser extension
 
 Download the matching Chromium or Firefox extension archive from the ZeluxDL GitHub Releases page:
 
-    https://github.com/SMOKEx2/Zelux-DL/releases/latest
+    https://github.com/RoxyZ7/Zelux-DL/releases/latest
 
 1. Extract the archive and load its folder from the browser's extensions page
    (Developer mode -> Load unpacked for Chromium; about:debugging for Firefox).

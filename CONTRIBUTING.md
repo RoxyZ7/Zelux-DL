@@ -6,9 +6,9 @@ welcome.
 ## Ways to help
 
 * ⭐ Star the repo and tell people about it — it genuinely helps.
-* 🐞 [Report bugs](https://github.com/SMOKEx2/Zelux-DL/issues/new/choose) —
+* 🐞 [Report bugs](https://github.com/RoxyZ7/Zelux-DL/issues/new/choose) —
   Settings → Advanced → **Export diagnostics** gives us logs without anything private.
-* 💡 Suggest features in [Discussions](https://github.com/SMOKEx2/Zelux-DL/discussions).
+* 💡 Suggest features in [Discussions](https://github.com/RoxyZ7/Zelux-DL/discussions).
 * 🧑‍💻 Send a pull request (see below).
 
 ## Development setup
