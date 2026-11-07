@@ -134,7 +134,7 @@ pub fn open_browser(browser: &str) -> Result<(), String> {
 }
 
 /// Prism's extension in the Chrome Web Store (Chrome, Edge, Brave, Opera, Vivaldi, Chromium).
-pub const EXTENSION_STORE_URL: &str = "https://github.com/SMOKEx2/Zelux-DL/releases";
+pub const EXTENSION_STORE_URL: &str = "https://github.com/RoxyZ7/ZELUX-DL/releases";
 
 /// Opens the extension's Chrome Web Store page in `browser`.
 pub fn open_extension_store(browser: &str) -> Result<(), String> {

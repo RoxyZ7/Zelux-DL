@@ -1,6 +1,6 @@
 # Install ZeluxDL
 
-Download ZeluxDL from the [latest GitHub Release](https://github.com/SMOKEx2/Zelux-DL/releases/latest). Release assets are versioned; choose an asset that matches your operating system and architecture. Each release includes `SHA256SUMS.txt` for integrity checks.
+Download ZeluxDL from the [latest GitHub Release](https://github.com/RoxyZ7/ZELUX-DL/releases/latest). Release assets are versioned; choose an asset that matches your operating system and architecture. Each release includes `SHA256SUMS.txt` for integrity checks.
 
 ## Windows
 

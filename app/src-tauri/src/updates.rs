@@ -80,7 +80,7 @@ pub async fn check_update(app: AppHandle) -> CmdResult<Option<UpdateInfo>> {
     // 2. Direct GitHub Release API check (reliable fallback without needing custom signed latest.json)
     if let Ok(client) = reqwest::Client::builder().user_agent("ZeluxDL").build()
         && let Ok(resp) = client
-            .get("https://api.github.com/repos/SMOKEx2/Zelux-DL/releases/latest")
+            .get("https://api.github.com/repos/RoxyZ7/ZELUX-DL/releases/latest")
             .send()
             .await
         && resp.status().is_success()
